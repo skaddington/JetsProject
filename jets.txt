@@ -1,0 +1,2 @@
+DCV,USS Enterprise,10000,2000000,80000000
+Fighter,Bad Jet, 100, 10, 1000000
