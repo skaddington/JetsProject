@@ -1,2 +1,5 @@
-DCV,USS Enterprise,10000,2000000,80000000
-Fighter,Bad Jet, 100, 10, 1000000
+CargoPlane,C-17 GlobeMaster,590,2784,220000000
+FighterJet,B-2 Spirit (Stealth Bomber),628,6900,737000000
+OtherJets,Embraer Phenom 300,598,2268,8760000
+OtherJets,Citation Longitude,645,3500,29960000
+OtherJets,de Havilland Comet,450,4024,26970000
